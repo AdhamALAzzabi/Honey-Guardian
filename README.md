@@ -1,3 +1,5 @@
+[![Honey-Guardian Logo](https://github.com/AdhamALAzzabi/Honey-Guardian/blob/main/Logo.png?raw=true)]
+
 # Honey-Guardian
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
