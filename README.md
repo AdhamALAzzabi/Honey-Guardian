@@ -1,3 +1,5 @@
+# Logo
+
 ![Honey-Guardian Logo](https://github.com/AdhamALAzzabi/Honey-Guardian/blob/main/Logo.png?raw=true)
 
 # Honey-Guardian
@@ -28,5 +30,16 @@ Honey-Guardian is a powerful, multi-honeypot platform built on Docker to emulate
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/your-username/Honey-Guardian.git](https://github.com/your-username/Honey-Guardian.git)
+   git clone [https://github.com/AdhamALAzzabi/Honey-Guardian.git](https://github.com/AdhamALAzzabi/Honey-Guardian.git)
    cd Honey-Guardian
+
+### Features
+- Emulates diverse network services, IoT devices, and ICS/SCADA systems.
+- Deploys honeypots in isolated Docker containers for security and scalability.
+- Uses the ELK stack for centralized log processing and real-time data visualization.
+- Provides a user-friendly GUI for easy management and orchestration.
+
+### Usage
+- Access the Kibana dashboard at http://localhost:5601 for real-time data visualization
+- Manage and configure honeypots via the GUI at http://localhost:8080 (assuming a web interface is set up on this port).
+
