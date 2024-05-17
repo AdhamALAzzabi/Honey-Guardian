@@ -22,7 +22,15 @@ Honey-Guardian is a multi-honeypot platform based on Docker, designed to emulate
 - Provides a user-friendly GUI for easy management and orchestration.
 
 ### Installation
+
+#### Prerequisites
+- Docker
+- Docker Compose
+
+#### Steps
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/your-username/Honey-Guardian.git
    cd Honey-Guardian
+Install Docker and Docker Compose:Docker Installation GuideDocker Compose Installation GuideSet Up Environment Variables:Create a .env file in the root directory and add necessary environment variables. For example:bashCopy codeELASTICSEARCH_URL=http://localhost:9200
+Deploy the Containers: docker-compose up -d
