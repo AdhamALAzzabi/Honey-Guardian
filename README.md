@@ -12,7 +12,7 @@ Honey-Guardian is a powerful, multi-honeypot platform built on Docker to emulate
 * **User-Friendly GUI:**  Provides an intuitive graphical interface for effortless management and orchestration of honeypots.
 
 ## Screenshots
-[![Kibana Dashboard](Honey-Guardian/Honey-Guardian GUI.png)](#features)
+[![Kibana Dashboard](images/Honey-Guardian GUI.png)](#features)
 
 
 ## Installation
