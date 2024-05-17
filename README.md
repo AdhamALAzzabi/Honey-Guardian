@@ -1,4 +1,4 @@
-[![Honey-Guardian Logo](https://github.com/AdhamALAzzabi/Honey-Guardian/blob/main/Logo.png?raw=true)]
+![Honey-Guardian Logo](https://github.com/AdhamALAzzabi/Honey-Guardian/blob/main/Logo.png?raw=true)
 
 # Honey-Guardian
 
