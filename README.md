@@ -13,6 +13,7 @@ Honey-Guardian is a powerful, multi-honeypot platform built on Docker to emulate
 
 ## Screenshots
 [![Kibana Dashboard](Honey-Guardian/Honey-Guardian.png)](#features)
+![Alt text](Honey-Guardian/Honey-Guardian.png?raw=true "Optional Title")
 
 
 ## Installation
